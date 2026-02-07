@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of EcoClear - Smart Waste Management",
+  "description": "A comprehensive smart waste removal platform connecting users, drivers, and disposal facilities using AI for waste identification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
